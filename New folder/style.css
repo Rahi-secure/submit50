@@ -1,0 +1,140 @@
+body{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;	
+	font-family: arial;
+}
+
+.nav a{
+	margin: 10px;
+	float: right;
+	color: black;
+	text-decoration: none;
+}
+
+
+.konfest{
+	margin-top: 200px;
+	margin-left: 540px;
+}
+
+
+.pro{
+	border-radius: 15px;
+	width: 35%;
+	height: 30px;
+	margin-top: 10px;
+	margin-left: 450px;
+}
+
+
+.logo{
+	height: 30px;
+	color: black;
+	background-color: white;
+	margin-top: 15px;
+	margin-left: 550px;
+	padding-left: 10px;
+	padding-right: 10px;
+	border-radius: 5px;
+}
+
+.ogo{
+	height: 30px;
+	color: black;
+	background-color: white;
+	margin-top: 15px;
+	margin-left: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	border-radius: 5px;
+}
+
+.first a{
+		float: right;
+	margin: 10px;
+	color: black;
+	text-decoration: none;
+}
+
+
+
+.image{
+		margin-top: 200px;
+	margin-left: 540px;
+}
+
+.tips{
+	border-radius: 25px;
+	width: 35%;
+	height: 30px;
+	margin-top: 10px;
+	margin-left: 450px;
+}
+
+
+.log{	
+	height: 30px;
+	color: black;
+	background-color: white;
+	margin-top: 15px;
+	margin-left: 625px;
+	padding-left: 15px;
+	padding-right: 12px;
+	border-radius: 5px;
+}
+
+
+.mi a{
+	float: right;
+	margin: 10px;
+	color: black;
+	text-decoration: none;
+}
+
+h2{
+	color: red;
+	margin-left: 50px;
+}
+
+
+.ajju{
+	margin-left: 50px;
+}
+
+
+.roh{
+	margin-left: 220px;
+	background-color: white;
+	color: black;
+	padding-left: 10px;
+	padding-right: 10px;
+	border-radius: 5px;
+}
+
+
+.arbaz{
+		width: 35%;
+		height: 20px;
+		margin-left: 100px;
+}
+
+
+.ar{
+		width: 35%;
+		height: 20px;
+		margin-left: 25px;
+	}
+.baz{
+		width: 35%;
+		height: 20px;
+		margin-left: 70px;
+}
+
+.az{
+		width: 35%;
+		height: 20px;
+		margin-left: 60px;
+}
+
+
